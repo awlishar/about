@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Research Scientist at VTT Technical Research Centre of Finland.
+PhD student at University of Helsinki.
+
+Contact: amanda.bruncrona@vtt.fi
+
+
 <!--
 **awlishar/awlishar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Keywords: fusion, physics, tokamak, plasma, stability, magnetohydrodynamics, machine learning, deep learning 
