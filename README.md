@@ -1,25 +1,17 @@
-## Hi there 👋
+# About
 
-Research Scientist at VTT Technical Research Centre of Finland.
-PhD student at University of Helsinki.
+I’m a **Research Scientist** at **VTT Technical Research Centre of Finland** and a **PhD student** at the **University of Helsinki**.
 
-Contact: amanda.bruncrona@vtt.fi
+My research focuses on fusion energy and plasma physics, with particular interests in plasma stability, magnetohydrodynamics (MHD), and machine learning for plasma applications.
 
+### First author publications
 
-<!--
-**awlishar/awlishar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A. M. Bruncrona, A. Kit, A. E. Järvinen, S. Saarelma, L. Frassinetti, JET Contributors; Machine learning surrogate model for ideal peeling–ballooning pedestal MHD stability. Phys. Plasmas 1 September 2025; 32 (9): 092501. https://doi.org/10.1063/5.0282085
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Email:** amanda.bruncrona@vtt.fi
 
+---
 
-Keywords: fusion, physics, tokamak, plasma, stability, magnetohydrodynamics, machine learning, deep learning 
+**Keywords:** `fusion` · `physics` · `tokamak` · `plasma` · `stability` · `magnetohydrodynamics` · `machine-learning` · `deep-learning`, `surrogate models`
