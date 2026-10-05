@@ -8,6 +8,11 @@ My research focuses on fusion energy and plasma physics, with particular interes
 
 - A. M. Bruncrona, A. Kit, A. E. Järvinen, S. Saarelma, L. Frassinetti, JET Contributors; Machine learning surrogate model for ideal peeling–ballooning pedestal MHD stability. Phys. Plasmas 1 September 2025; 32 (9): 092501. https://doi.org/10.1063/5.0282085
 
+### Projects
+
+- [KARHU](https://github.com/DIGIfusion/karhu) -  An ideal MHD pedestal stability surrogate model
+- [Enchanted-surrogates](https://github.com/DIGIfusion/enchanted-surrogates) - A framework for creating databases for surrogate models of complex physics codes.
+
 ### Contact
 
 **Email:** amanda.bruncrona@vtt.fi
